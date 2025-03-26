@@ -4,6 +4,6 @@ Bienvenido al repositorio de **StudyStay Web**, la versión web de la plataforma
 
 ## 📖 Descripción del Proyecto
 
-StudyStay es una plataforma destinada a facilitar el alquiler de alojamientos para estudiantes. El proyecto ya cuenta con una versión cliente en Android y una aplicación de escritorio para administradores.
+StudyStay es una plataforma destinada a facilitar el alquiler de alojamientos para estudiantes. El proyecto ya cuenta con una versión cliente en Android y una aplicación de escritorio para administradores que se complementarán con la aplicación web en desarrollo.
 
 ## 📅 Roadmap
