@@ -1,6 +1,6 @@
 # StudyStay Web 🌍
 
-Bienvenido al repositorio de **StudyStay Web**, la versión web de la plataforma de alquileres estudiantiles desarrollada como parte del Trabajo de Fin de Grado (TFG) en DAM.
+Bienvenido al repositorio de **StudyStay Web**, la versión web de la plataforma de alquileres estudiantiles desarrollada como parte del Trabajo de Fin de Grado (TFG) en DAW.
 
 ## 📖 Descripción del Proyecto
 
